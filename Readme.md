@@ -10,6 +10,10 @@ Changes from the original tutorial files:
    
 3) I have added type definitions, a jsconfig.json, and the `//@ts-check` command so that Visual Studio Code will give detailed warnings and feedback based on the Phaser.js API and stricter javascript rules. Delete the `//@ts-check` command if you don't want type checking, and only want the intellisense popus.
 
+You can also use Gitpod to open this project directly in a web browser!
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DavidGriswoldTeacher/phaser_tutorial_assignment)
+
 
 ## Want to add intellisense to another project?
 
